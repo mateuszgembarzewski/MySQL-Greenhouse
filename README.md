@@ -1,0 +1,1 @@
+The extended entity relationship model file can be opened in MySQL workbench and shows the relationships between all the entities. The SQL queries file contains SQL queries that retrieve the data that matches the queries. 
